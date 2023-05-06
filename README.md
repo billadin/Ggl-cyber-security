@@ -1,6 +1,6 @@
 # Google Cyber Security - Coursera
 
-** Compliance ** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines, audits, and security breaches.
+**Compliance** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines, audits, and security breaches.
 
 ### Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy.
 
