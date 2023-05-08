@@ -2,28 +2,85 @@
 
 
 
-### Key cybersecurity terms and concepts
+Week 1:
 
-**Compliance** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines, audits, and security breaches.
+Terms:
 
-### Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy.
 
-### Security controls are safeguards designed to reduce specific security risks. They are used with security frameworks to establish a strong security posture.
+Cybersecurity (or security): The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
 
-### Security posture is an organization’s ability to manage its defense of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
+Internal threat: A current or former employee, external vendor, or trusted partner who poses a security risk
+Network security: The practice of keeping an organization's network infrastructure secure from unauthorized access
+Personally identifiable information (PII): Any information used to infer an individual’s identity. Full name, date of birth, physical address, phone number, email address, IP address etc.
+Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+Technical skills: Skills that require knowledge of specific tools, procedures, and policies  Social security number, medical or financial information and biometric data such as facial recognition
+Threat: Any circumstance or event that can negatively impact assets
+Threat actor: Any person or group who presents a security risk
+Transferable skills: Skills from other areas that can apply to different careers
 
-### A threat actor, or malicious attacker, is any person or group who presents a security risk. This risk can relate to computers, applications, networks, and data.
+Benefits of security:
+Protects against external and internal threats
+Meets regulatory compliance
+Maintains and improve business productivity
+Reduces expenses
+Maintain brand trust
 
-### An internal threat can be a current or former employee, an external vendor, or a trusted partner who poses a security risk. At times, an internal threat is accidental. For example, an employee who accidentally clicks on a malicious email link would be considered an accidental threat. Other times, the internal threat actor intentionally engages in risky activities, such as unauthorized data access.
 
-### Network security is the practice of keeping an organization's network infrastructure secure from unauthorized access. This includes data, services, systems, and devices that are stored in an organization’s network.
 
-### Cloud security is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly, and access to those assets is limited to authorized users. The cloud is a network made up of a collection of servers or computers that store resources and data in remote physical locations known as data centers that can be accessed via the internet. Cloud security is a growing subfield of cybersecurity that specifically focuses on the protection of data, applications, and infrastructure in the cloud.
+Common Job title:
+Security analyst or specialist
+Cybersecurity analyst or specialist
+Security operations center (SOC) analyst
+Information security analyst
 
-### Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. These tasks can include:
 
-+ Automation of repetitive tasks (e.g., searching a list of malicious domains)
+Security analyst responsibilities:
 
-+ Reviewing web traffic 
+Protecting computer and network system
+Installing prevention software
+Conducting periodic security audits
 
-+ Alerting suspicious activity
+
+Security analyst transferable skills:
+
+Communication
+Collaboration
+Analysis
+Problem solving
+
+
+Security analyst technical skills:
+Programming languages (ex. Python, SQL)
+Security incident and event management (SIEM) tools
+Computer forensics
+
+
+Analytical thinking
+Security analysts often use analytical thinking, which means to think carefully and thoroughly. Analysts use this skill when monitoring and securing computer and network systems, responding to potential threats, defining system privileges, and determining ways to mitigate risk.
+
+
+Collaboration
+Collaboration means working with stakeholders and other team members. Security analysts often use this skill when responding to an active threat. They'll work with others when blocking unauthorized access and ensuring any compromised systems are restored.
+
+
+Malware prevention
+When a specific threat or vulnerability is identified, an analyst might install prevention software, which is software that works to proactively prevent a threat from occurring. Because malware is designed to harm devices or networks, malware prevention is essential.
+
+
+Communication
+As an analyst prevents and encounters threats, risks, or vulnerabilities, they document and report findings. A report might detail attempts to secure systems, test weak points, or offer solutions for system improvement. When reporting findings, strong communication skills are important.
+
+
+Understanding programming languages
+Analysts may sometimes work with software development teams to analyze and support security, install software, and set up appropriate processes. When involved with software development projects, it can be helpful for an analyst to understand programming languages.
+
+
+Using SIEM tools
+When security analysts need to review vulnerabilities, they conduct a periodic security audit. This is a review of an organization’s records, activities, and related documents. During audits, Security Information and Event Management (SIEM) tools help analysts better understand security threats, risks, and vulnerabilities.
+
+
+What we learned:
+Defined security
+Job responsibilities
+Core skills
+Value of security
